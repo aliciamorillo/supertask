@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filter"
+        android:icon="@drawable/ic_filter_list_black_24dp"
+        app:showAsAction="always"
+        android:title="Filtro" />
+
+    <item
+        android:id="@+id/profile"
+        app:showAsAction="collapseActionView"
+        android:title="Perfil" />
+
+    <item
+        android:id="@+id/category"
+        app:showAsAction="collapseActionView"
+        android:title="Añadir Categoria" />
+
+    <item
+        android:id="@+id/logout"
+        app:showAsAction="collapseActionView"
+        android:title="Cerrar Sesion" />
+
+</menu>

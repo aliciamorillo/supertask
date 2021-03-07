@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Supertask</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Puedes aumentar o disminuir un valor de campo numérico como se muestra en el siguiente ejemplo. Una operación de incremento aumenta o disminuye el valor actual del campo según la cantidad dada. Si el campo no existe o si el valor actual del campo no es uno numérico, la operación configura el campo en el valor dado.
+    Puedes aumentar o disminuir un valor de campo numérico como se muestra en el siguiente ejemplo. Una operación de incremento aumenta o disminuye el valor actual del campo según la cantidad dada. Si el campo no existe o si el valor actual del campo no es uno numérico, la operación configura el campo en el valor dado.
+    Puedes aumentar o disminuir un valor de campo numérico como se muestra en el siguiente ejemplo. Una operación de incremento aumenta o disminuye el valor actual del campo según la cantidad dada. Si el campo no existe o si el valor actual del campo no es uno numérico, la operación configura el campo en el valor dado
+    Puedes aumentar o disminuir un valor de campo numérico como se muestra en el siguiente ejemplo. Una operación de incremento aumenta o disminuye el valor actual del campo según la cantidad dada. Si el campo no existe o si el valor actual del campo no es uno numérico, la operación configura el campo en el valor dado.
+    Puedes aumentar o disminuir un valor de campo numérico como se muestra en el siguiente ejemplo. Una operación de incremento aumenta o disminuye el valor actual del campo según la cantidad dada. Si el campo no existe o si el valor actual del campo no es uno numérico, la operación configura el campo en el valor dado.
+
+    </string>
+    <string name="crear_categoria">Crear categoria</string>
+    <string name="categoria">Categoria</string>
+</resources>

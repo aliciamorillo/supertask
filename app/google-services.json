@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505627617503",
+    "firebase_url": "https://supertask-4923b.firebaseio.com",
+    "project_id": "supertask-4923b",
+    "storage_bucket": "supertask-4923b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505627617503:android:3c3c5a9437092fed50216a",
+        "android_client_info": {
+          "package_name": "com.example.supertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505627617503-pngmth4d9n3vius9254fdqgr15eq44fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supertask",
+            "certificate_hash": "8cd104c49b5f7eeba1a7133182b54b4070a20921"
+          }
+        },
+        {
+          "client_id": "505627617503-1sodaos2spvvag3633s6695j92nbtgf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnlsiNkrTsg5kW3-jtlQ5s8bW77knQxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505627617503-1sodaos2spvvag3633s6695j92nbtgf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
